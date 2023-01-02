@@ -1,3 +1,3 @@
 # Core-Java-Concepts
 
-All the Core Java Topics
+All the Core Java Topics.
